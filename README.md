@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 -->
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
-       <img height=220 src="https://github-readme-stats.vercel.app/api?username=NatalieDi&show_icons=true&count_private=true"/></a>
+       <img height=175 src="https://github-readme-stats.vercel.app/api?username=NatalieDi&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieDi&layout=compact"/></a>
+       <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieDi&layout=compact"/></a>
 </p>
 
 <!-- ![NatalieDi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieDi&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieDi&layout=compact&langs_count=12)
