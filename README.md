@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+   <a href="https://github-readme-stats.vercel.app/api?username=NatalieDi&show_icons=true&count_private=true">
        <img height=175 src="https://github-readme-stats.vercel.app/api?username=NatalieDi&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
+   <a href="https://github.com/NatalieDi/github-readme-stats">
+     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieDi&layout=compact">
        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieDi&layout=compact"/></a>
 </p>
 
