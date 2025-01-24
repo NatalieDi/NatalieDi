@@ -78,6 +78,9 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 </a>
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="HTML" width="40" height="40"/>
+</a>
 <a href="https://docs.pytest.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
 </a>
