@@ -13,7 +13,7 @@ Professional with an expertise in Java, Python, JavaScript, SQL, Cloud Computing
 <!-- Hey there! Welcome to my GitHub profile! I'm Natalie   I'm a Software QA Engineer with a solid foundation in👋 -->
 
 
-<!--Always keen to contribute to innovative and groundbreaking projects.
+Always keen to contribute to innovative and groundbreaking projects.
 Have a project in mind? Let’s build something amazing together!
 [![Linkedin Badge](https://img.shields.io/badge/-NatalieDi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliedi)-->
 
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-I am always excited to collaborate on innovative and groundbreaking projects!<p></p>
+I am always excited to collaborate in innovative and groundbreaking projects!<p></p>
 
 Let's connect and create something amazing together!
 
