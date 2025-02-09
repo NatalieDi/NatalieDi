@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟+Welcome+to+my+profile;👩‍💻+I'm+Software+QA+Engineer;💡+Let's+Collaborate!)](https://git.io/typing-svg)
 
 
-I’m passionate about high software quality, focus on delivery top-notch solutions, and solving complex problems.
+Passionate about high software quality, focus on delivery top-notch solutions, and solving complex problems.
 
-I'm a professional with an expertise in Java, Python, JavaScript, SQL, Cloud Computing, Statistics, Mathematics, and Computer Science.
+Professional with an expertise in Java, Python, JavaScript, SQL, Cloud Computing, Statistics, Mathematics, and Computer Science.
 
 
 
